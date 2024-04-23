@@ -1,5 +1,7 @@
 # [COVID-19 Data Analysis Project](https://github.com/JACKSPARROWbts/DS_ML_AI_Universe/tree/covid_19_data_analysis)
 
+Download the realtime Covid Dataset from [here](https://ourworldindata.org/covid-deaths)
+
 ### Objective
 The objective of this project is to analyze COVID-19 data to understand trends, patterns, and insights using SQL, Tableau, Python with Pandas, and Excel.
 
