@@ -65,6 +65,8 @@
 
 # COVID-19 Data Analysis using Python (Pandas, Seaborn, Matplotlib)
 
+- To install the required libraries use `pip install -r requirements.txt`.
+  
 - Import necessary libraries such as Pandas, Seaborn, Matplotlib for data manipulation, visualization, and analysis.
 
 - Read the COVID-19 dataset using Pandas and explore its structure and content. Handle missing values by calculating the percentage of NULL values in each column and converting data types as needed.
